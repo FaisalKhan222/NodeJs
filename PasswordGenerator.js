@@ -1,8 +1,8 @@
 //Assignment 1 
 //INFS3201- Web Technologies II
 //Date: 27-Jan-2024
-//Name: Faisal Musalman
-//ID: 60101223
+//Name: Faisal
+//
 //Simple Password Generator.
 
 
